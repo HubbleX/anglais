@@ -1,0 +1,71 @@
+s@import 'font.css';
+
+body
+{
+    background-color: black; 
+    color: white; 
+}
+
+body
+{
+    background-color: beige; 
+    color: black; 
+}
+
+
+h1 {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+  
+h1
+{
+    font-family: "Arial Black";
+	
+}
+p
+{
+    color: blue;
+}
+
+h1
+{
+    border: 6px black solid
+}
+
+p
+{   
+    text-align: center;
+}
+
+p
+{
+    font-size: x-large;
+}
+
+h2
+{
+    font-size: xx-large;
+}
+
+a
+{
+    color: blue;
+}
+
+a
+{
+    font-size: x-large;
+}
+
+h3
+{
+    text-align: right; 
+}
+
